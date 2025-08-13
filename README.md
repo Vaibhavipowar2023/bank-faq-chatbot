@@ -1,6 +1,6 @@
 
 # 🏦 Bank FAQ Chatbot 
-A Retrieval-Augmented Generation (RAG) powered chatbot that answers customer queries using official **RBI Circulars** and **SBI FAQs**.  
+A Retrieval-Augmented Generation (RAG) powered chatbot that answers customer queries using official  FAQs.  
 Built with **Python**, **BeautifulSoup**, **LangChain**, and a **vector database** for semantic search.
 
 ---
