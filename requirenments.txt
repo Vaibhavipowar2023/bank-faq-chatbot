@@ -1,0 +1,12 @@
+streamlit
+langchain
+faiss-cpu
+sentence-transformers
+pandas
+PyMuPDF
+googletrans==4.0.0rc1
+fpdf
+openai
+python-dotenv
+requests
+beautifulsoup4

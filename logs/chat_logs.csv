@@ -1,0 +1,23 @@
+timestamp,role,lang_code,query,answer,confidence
+2025-08-13T14:12:02,customer,en,what is kyc?,"**Answer:**  
+KYC (Know Your Customer) is a process banks use to verify your identity and ensure your financial transactions are safe and legitimate. It helps prevent fraud and illegal activities. Here's how it works in simple terms:  
+
+1. **Digital KYC:**  
+   - When you open an account, the bank might ask for a **live photo** of you and your ID (like Aadhaar) through their app/website.  
+   - They’ll also check your **location** (using GPS) to confirm where the photo was taken.  
+
+2. **E-Documents:**  
+   - You can submit digital copies of IDs (e.g., from a government-approved digital locker) instead of physical papers, as long as they’re officially signed.  
+
+3. **Banks Are Responsible:**  
+   - Even if a third-party agent helps you, the bank ensures your details are verified correctly.  
+
+**Example:**  
+If you open an account online, you might take a selfie, share your Aadhaar digitally, and let the app access your location. The bank uses this to confirm it’s really you!  
+
+In some cases, physical documents might still be needed if digital options aren’t available. The goal is to keep banking secure for everyone! 😊",0.4938
+2025-08-13T14:22:15,customer,en,what is the interest of home loan as government bank?,"The interest rate on a home loan from a government bank (like SBI) depends on factors such as the bank’s policies, your credit profile, loan amount, and tenure. While the RBI sets guidelines to ensure transparency and fairness, the final rate is determined by the bank based on your application and market conditions.  
+
+For example, if you apply for a ₹50 lakh home loan, the bank might offer a rate of 8.5% p.a. if you have a strong credit score, but it could be higher if risks are perceived. Always check directly with the bank for their latest rates, as these can change. The RBI ensures banks follow rules like disclosing all charges clearly, so you won’t face hidden fees.  
+
+**In short:** Rates vary—contact your bank for specifics! 😊",0.5562
